@@ -17,6 +17,7 @@ lightgbm
 xgboost
 pyarrow
 spacy
+ipywidgets
 
 ruff
 mypy

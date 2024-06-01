@@ -8,6 +8,7 @@ plotly
 dash
 ipywidgets
 seaborn
+scipy~=1.12.0
 scikit-learn
 bokeh
 gensim

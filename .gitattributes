@@ -1,6 +1,9 @@
 # Exclude Jupyter notebooks from language statistics (too much HTML/JSON noise)
 *.ipynb linguist-detectable=false
 
+# Exclude HTML files from language statistics
+*.html linguist-detectable=false
+
 # Ensure Python files are properly detected
 *.py linguist-detectable=true
 *.py linguist-language=Python
